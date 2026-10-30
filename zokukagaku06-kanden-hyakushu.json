@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kanden-hyakushu",
  "yomi": "かんでんひゃくしゅ",
  "category": "定数歌",
- "description": null,
+ "description": {
+  "kind": "百首歌",
+  "era": "寛政8年（1796）頃",
+  "author": "伴蒿蹊（1733〜1806）",
+  "desc": "近世の国学者・歌人伴蒿蹊が自詠の百首を書きとどめたもの。60歳の年頭の歌に始まり、四季・雑の歌を収める。末に「洛南老樵閑田子蒿蹊六十四叟書」とある。"
+ },
  "editions": [
   {
    "pid": "993384",
